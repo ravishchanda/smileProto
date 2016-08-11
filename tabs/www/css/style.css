@@ -1,0 +1,23 @@
+/* Empty. Add your own CSS if you like */
+.item
+{
+padding:0px;
+}
+.row
+{
+	padding-top: 5px;
+	padding-left: 0px;
+}
+
+.name
+{
+font-size: 11px;
+color: #0551982,6R;
+font-weight: 300;
+}
+
+.addressText
+{
+	font-size: 10px;
+	font-weight: 200;
+}
