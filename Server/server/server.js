@@ -25,6 +25,9 @@ app.all('*', function(req, res, next) {
     next();
 });
 
+
+/* Routes starts from here */
+
 app.get('/shops', shops.findAll);
 app.get('/shops/:id:title', shops.findById);
 
