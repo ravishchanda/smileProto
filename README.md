@@ -1,1 +1,1 @@
-# smileProto is an initiative for small business internet presense econsystem.
+# smileProto is an initiative for small business internet presense ecosystem.
